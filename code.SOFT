@@ -1,0 +1,5 @@
+TOP
+INT a=45;
+FOR<<a=0:10;+1>>(
+WRITE<<'helloWorld'>>
+)BOTTOM
